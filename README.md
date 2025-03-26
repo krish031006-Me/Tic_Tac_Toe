@@ -17,7 +17,7 @@ A simple Tic Tac Toe game built using Python. This game allows two players to co
 
   Clone the repository:
 
-  git clone https://github.com/yourusername/tic-tac-toe.git
+  git clone https://github.com/krish031006-Me/tic-tac-toe.git
   
   cd tic-tac-toe
 
