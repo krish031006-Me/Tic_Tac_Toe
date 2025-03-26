@@ -21,9 +21,11 @@ A simple Tic Tac Toe game built using Python. This game allows two players to co
   <br>
   cd tic-tac-toe
 <br>
+<br>
   <b>Run the game:<b>
 <br>
   python tic_tac_toe.py
+<br>
 <br>
 <b>3. How to Play:<b>
 <br>
